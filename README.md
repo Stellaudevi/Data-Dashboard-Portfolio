@@ -36,7 +36,7 @@ The analysis of customer satisfaction data for Dana Airlines reveals critical ar
 - **Minimize Flight Delays**: Optimize scheduling and provide real-time updates.
 - **Improve WIFI and Check-in**: Address connectivity issues and streamline check-in processes.
 
------
+--------
 ![](Thank%20you.jpg)
 
 
