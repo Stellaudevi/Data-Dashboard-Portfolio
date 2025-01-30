@@ -10,6 +10,19 @@ This project analyzes customer satisfaction and operatonal performance for **Dan
 ## Problem Statement
 Dano Airlines has seen a decline in customer satisfaction, with ratings fallings belows 50% for the first time. Key issues include disparities among customer types,flight classes, and service areas. The Leadership team needs a data-driven strategy to increase satisfaction. Your task is to analyze the dataset and present actionable recommendations in a single-page report or dashboard.
 
+## Raw Dataset Sample  
+
+| ID  | Gender | Age | Customer Type | Type of Travel | Class  | Flight Distance | Satisfaction |
+|-----|--------|-----|--------------|---------------|--------|----------------|-----------------|
+| 1   | Male   | 48  | First-time   | Business      | Business | 821            | Neutral or Dissatisfied    |
+| 2   | Female | 35  | Returning    | Business      | Business | 827           | Satisfied                  |
+| 3   | Male   | 41  | Returning    | Business      | Economy  | 853            | Satisfied                  |
+
+ **_Raw Dataset_** 
+The full Dana Airline dataset is available on Google Sheets:  
+[Click here to view the dataset](https://docs.google.com/spreadsheets/d/15Kp-2yfQFNRGJPNOkpMwG-OMX8xVZOJ5VL7f35v7sRQ/edit?usp=sharing)
+
+
 ## Skills and Concepts Demonstrated:
 
 - Data cleaning and Preparation
